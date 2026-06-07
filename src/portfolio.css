@@ -469,6 +469,19 @@
     color :rgb(122, 97, 146);
     
 }
+.progress {
+    color : rgb(122, 97, 146);
+    font-size : 18px;
+    font-style : italic;
+    text-align : center;
+}
+.proj-container {
+    display : flex;
+    flex-direction : row;
+    gap : 20px;
+    justify-content : center;
+    align-items : center;
+}
 /* .section-divider {
     height : 2px;
     background : linear-gradient (

@@ -8,8 +8,8 @@
         <>
         <h1 className = "proj"> My Projects</h1> 
         <div className ="projects">
-            
-             <div className = "proj3">
+            <div  className = "proj-container">
+                <div className = "proj3">
                 <img src={ loginPage} alt="login page project"/>
                 <h2 >Login Page</h2>
                 <p> A simple login page with form validation and responsive design</p>
@@ -41,7 +41,18 @@
                     <button className="btn" ><a href="https://expense-tracker-ddhdxnl04-jahnavi-reddy.vercel.app" target="_blank">View Project</a></button>
                     <button className="btn"><a href="https://github.com/jaanvicreates/Expense-tracker.git" target="_blank">GitHub repo</a></button>
                 </div>
+                  
+                 
             </div>
+            <p className = "progress">Still in progress....</p>
+
+
+
+
+            </div>
+            
+              
+            
              
             
 
