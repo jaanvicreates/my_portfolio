@@ -391,6 +391,19 @@
     /* flex-wrap : wrap; */
 
 }
+.progress {
+    color : rgb(122, 97, 146);
+    font-size : 18px;
+    font-style : italic;
+    text-align : center;
+}
+.proj-container {
+    display : flex;
+    flex-direction : row;
+    gap : 20px;
+    justify-content : center;
+    align-items : center;
+}
 .home-btn{
   padding:14px 28px;
   border:none;
@@ -469,25 +482,7 @@
     color :rgb(122, 97, 146);
     
 }
-.progress {
-    color : rgb(122, 97, 146);
-    font-size : 18px;
-    font-style : italic;
-    text-align : center;
-}
-.proj-container {
-    display : flex;
-    flex-direction : row;
-    gap : 20px;
-    justify-content : center;
-    align-items : center;
-}
-/* .section-divider {
-    height : 2px;
-    background : linear-gradient (
-        to right, transparent, #d46cff, transparent);
-    
+ 
 
-    } */
 
 
