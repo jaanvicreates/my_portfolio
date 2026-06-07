@@ -1,6 +1,7 @@
  import {TypeAnimation} from 'react-type-animation';
  import React from 'react'
  import pic from './assets/pic.jpeg'
+ import resume from './assets/resume.pdf'
  function Home () {
     return(
         <>
@@ -22,7 +23,7 @@
 
 
             </div>
-            <a href="resume.pdf" download className="home-btn">
+            <a href={resume} download className="home-btn">
               Download Resume
             </a>
              
