@@ -1,16 +1,40 @@
-# React + Vite
+ # 🌐 Jahnavi's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio website! This portfolio highlights my projects, technical skills, and learning journey as an aspiring Full-Stack Developer.
 
-Currently, two official plugins are available:
+## 🚀 About Me
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I enjoy building interactive and user-friendly web applications while continuously improving my development skills. I am currently exploring backend development with Node.js and Express.js and strengthening my frontend expertise.
 
-## React Compiler
+## 🛠️ Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- React.js
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Responsive and modern design
+- Smooth navigation
+- Dedicated Projects section
+- Skills showcase
+- Contact section
+
+## 📂 Projects
+
+### 🔐 Login Page
+A responsive authentication UI with form validation and a clean design.
+
+### 🎬 Movie Finder
+Search for movies and explore details using a movie database API.
+
+### 💰 Expense Tracker
+Track income and expenses, monitor balance, and manage transactions efficiently.
+
+## 📬 Contact
+
+Feel free to explore my projects and connect with me!
+
+---
+⭐ If you found this portfolio interesting, consider giving the repository a star.
