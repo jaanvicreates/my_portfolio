@@ -21,6 +21,9 @@ I enjoy building interactive and user-friendly web applications while continuous
 - Skills showcase
 - Contact section
 
+## 📷 Preview
+
+
 ## 📂 Projects
 
 ### 🔐 Login Page
