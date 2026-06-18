@@ -22,6 +22,9 @@ I enjoy building interactive and user-friendly web applications while continuous
 - Contact section
 
 ## 📷 Preview
+<img width="1865" height="807" alt="image" src="https://github.com/user-attachments/assets/d2db682e-cfed-44c9-ad6a-5b5ffae8470b" />
+<img width="1888" height="847" alt="Screenshot 2026-06-18 202150" src="https://github.com/user-attachments/assets/a668797c-e607-4017-b9f5-4609c7515017" />
+
 
 
 ## 📂 Projects
